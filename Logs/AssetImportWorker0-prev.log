@@ -1,0 +1,1515 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'es' Physical Memory: 8135 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/2n/Desenvolupament d'aplicacions/Proyecto_juego_conjunto/Proyecto_clase
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53965
+Successfully changed project path to: D:/2n/Desenvolupament d'aplicacions/Proyecto_juego_conjunto/Proyecto_clase
+D:/2n/Desenvolupament d'aplicacions/Proyecto_juego_conjunto/Proyecto_clase
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/2n/Desenvolupament d'aplicacions/Proyecto_juego_conjunto/Proyecto_clase/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002488 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1238ms)
+		BeginReloadAssembly (60ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (438ms)
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (165ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1072ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (831ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (286ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (313ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (214ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 2.833800 ms (FindLiveObjects: 0.153800 ms CreateObjectMapping: 0.047500 ms MarkObjects: 2.554400 ms  DeleteObjects: 0.076800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_038.dae
+  artifactKey: Guid(763f3af9683e30140a3c3dfa27bcce87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_038.dae using Guid(763f3af9683e30140a3c3dfa27bcce87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd5eef984e20dc9d9e21df6e90882b35') in 0.172828 seconds 
+  Import took 0.175578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_005.dae
+  artifactKey: Guid(979d760187300264f8092f3fd68f000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_005.dae using Guid(979d760187300264f8092f3fd68f000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369634f0640a814716f84c74192529cb') in 0.040388 seconds 
+  Import took 0.043378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Sample.png
+  artifactKey: Guid(e466c90c64ad3844e9298c572912b7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Sample.png using Guid(e466c90c64ad3844e9298c572912b7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bf4d9434e45050b3242c94cb093ba1') in 0.071857 seconds 
+  Import took 0.074583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements
+  artifactKey: Guid(74920ce1509291f49b1743746d728055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements using Guid(74920ce1509291f49b1743746d728055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29135280a2e46bbfff7583f55627e5af') in 0.006370 seconds 
+  Import took 0.009082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_032.dae
+  artifactKey: Guid(e8dddc48feef3a6418efdd6955fbdba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_032.dae using Guid(e8dddc48feef3a6418efdd6955fbdba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941a6097965520743f000de8a611086c') in 0.036925 seconds 
+  Import took 0.041640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_043.dae
+  artifactKey: Guid(fdc67a1f13e9f9a4cadaf097280f66c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_043.dae using Guid(fdc67a1f13e9f9a4cadaf097280f66c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488b371bb355aa05b3d592ddc2988cad') in 0.025540 seconds 
+  Import took 0.028643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_025.dae
+  artifactKey: Guid(ceb2ab387cb7bbf4fbd166d04156a9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_025.dae using Guid(ceb2ab387cb7bbf4fbd166d04156a9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f8389a2dc79138552bdbc4e9a8c660') in 0.033195 seconds 
+  Import took 0.035915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_001.dae
+  artifactKey: Guid(b6e33de23cadbcc4e821e4a239fb064f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_001.dae using Guid(b6e33de23cadbcc4e821e4a239fb064f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c531313c8c6b39dae180b519fda3c1') in 0.032784 seconds 
+  Import took 0.035530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_029.dae
+  artifactKey: Guid(bc3adf175bf1a924b8a37918f0fccd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_029.dae using Guid(bc3adf175bf1a924b8a37918f0fccd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be497cc9a00c396aec29d129ecaf8ef8') in 0.034678 seconds 
+  Import took 0.037452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_010.dae
+  artifactKey: Guid(6eddb17f67f41c44b98e319c451bc0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_010.dae using Guid(6eddb17f67f41c44b98e319c451bc0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a1110cbf4ad3e5e96fe8717a972a18') in 0.034563 seconds 
+  Import took 0.037125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_036.dae
+  artifactKey: Guid(07487dfdd3959d44db8d4d6b69e95219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_036.dae using Guid(07487dfdd3959d44db8d4d6b69e95219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cedb48b175974ca632fb038ea726b192') in 0.030084 seconds 
+  Import took 0.032686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_039.dae
+  artifactKey: Guid(3c9c651a805617647be421cd93e194a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_039.dae using Guid(3c9c651a805617647be421cd93e194a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e1720b03f931a6d8898b16de8eb2ae') in 0.031454 seconds 
+  Import took 0.033991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_008.dae
+  artifactKey: Guid(6abbd0043906be741b8effffaf0f2b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_008.dae using Guid(6abbd0043906be741b8effffaf0f2b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437f4e7c35a285782720c7511f984bfe') in 0.036936 seconds 
+  Import took 0.040342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Preview.png
+  artifactKey: Guid(b52fef78a1eaad44cb4dac47003ac9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Preview.png using Guid(b52fef78a1eaad44cb4dac47003ac9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f5e1d4fc97bdd7eb86dfda9e63460b') in 0.015745 seconds 
+  Import took 0.018478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000969 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_009.dae
+  artifactKey: Guid(02c63e195fa7129448f5e8ddc64396c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_009.dae using Guid(02c63e195fa7129448f5e8ddc64396c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afce1877b1cd62bd8bbd638c9f6e0174') in 0.040346 seconds 
+  Import took 0.043465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_016.dae
+  artifactKey: Guid(dfc24a88def5d0d42886035cab86c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_016.dae using Guid(dfc24a88def5d0d42886035cab86c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32e19bf298252aa848cb921b07d6380') in 0.032874 seconds 
+  Import took 0.035508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_013.dae
+  artifactKey: Guid(de34d6a35c62a214a9873b40908ce330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_013.dae using Guid(de34d6a35c62a214a9873b40908ce330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb853024c3652bb51696f035b8139f30') in 0.029508 seconds 
+  Import took 0.032237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_041.dae
+  artifactKey: Guid(181bc8d63ab42cd4696e82a41f939d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_041.dae using Guid(181bc8d63ab42cd4696e82a41f939d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b108647d0b97cb7c5c99a8c21e7d83') in 0.036865 seconds 
+  Import took 0.039577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_026.dae
+  artifactKey: Guid(008febe56e3ce1149a4e81249a791ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_026.dae using Guid(008febe56e3ce1149a4e81249a791ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc2928bf5c903556f3844850d1dc0e7') in 0.053379 seconds 
+  Import took 0.055960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_034.dae
+  artifactKey: Guid(5c31522ff74f5424f830dc39d155c341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_034.dae using Guid(5c31522ff74f5424f830dc39d155c341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4147984cf5d49dadd56cd7be3124540') in 0.028141 seconds 
+  Import took 0.031795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_019.dae
+  artifactKey: Guid(52b63d1f5ea6e8749bc924758fcecfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_019.dae using Guid(52b63d1f5ea6e8749bc924758fcecfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63113e0ed5785d1557aa00e7b0aba35e') in 0.028820 seconds 
+  Import took 0.031548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Space Interior Elements
+  artifactKey: Guid(5825849c48f9ee548af7110ec66a8a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements using Guid(5825849c48f9ee548af7110ec66a8a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bffa58e171b8791bb392f7ff16debd') in 0.003941 seconds 
+  Import took 0.006676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models
+  artifactKey: Guid(5ecd831cfb4beef43a8c05d33cc81709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models using Guid(5ecd831cfb4beef43a8c05d33cc81709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd914a4a37faa8950d220719e27cd74') in 0.008879 seconds 
+  Import took 0.012372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_028.dae
+  artifactKey: Guid(a5440b8c9e318b34296fcd102eb8771d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_028.dae using Guid(a5440b8c9e318b34296fcd102eb8771d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536b64eecc97f8e83460efd5d3cbd6d7') in 0.036554 seconds 
+  Import took 0.039709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_002.dae
+  artifactKey: Guid(5a254356b99e1a84e89d01c996085605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_002.dae using Guid(5a254356b99e1a84e89d01c996085605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fa89bb9dbaa70d23afe2092cbb6cc0') in 0.033308 seconds 
+  Import took 0.036012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_040.dae
+  artifactKey: Guid(8a45f96f7b30cfc43b149cf543d8a314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_040.dae using Guid(8a45f96f7b30cfc43b149cf543d8a314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f179998d2e226129ce792a25dc3d3ed5') in 0.032716 seconds 
+  Import took 0.035388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_014.dae
+  artifactKey: Guid(83d7daa937abe9e4e9d4ba5af61eaed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_014.dae using Guid(83d7daa937abe9e4e9d4ba5af61eaed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf3b76ac78d1396319955489ab1a100') in 0.029994 seconds 
+  Import took 0.033531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_022.dae
+  artifactKey: Guid(8ff4d73fe8070464c8ea98dd575a7169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_022.dae using Guid(8ff4d73fe8070464c8ea98dd575a7169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd431094bd38d57dd8362f764d578483b') in 0.031722 seconds 
+  Import took 0.034347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_006.dae
+  artifactKey: Guid(ab0dd96ef8710f94db7c825e54da57a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_006.dae using Guid(ab0dd96ef8710f94db7c825e54da57a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0491fad14b7873db9dae34276ab7c6f') in 0.030533 seconds 
+  Import took 0.033153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_011.dae
+  artifactKey: Guid(4cf2c3dbf784a604a810370ee1a79c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_011.dae using Guid(4cf2c3dbf784a604a810370ee1a79c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e723ce0a2ef206eaf7f91baef426654b') in 0.037010 seconds 
+  Import took 0.039583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_024.dae
+  artifactKey: Guid(c84e828515686924b9fdaf1429f8f1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_024.dae using Guid(c84e828515686924b9fdaf1429f8f1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ed076e12b80d8a4fd0c3617c26a6d8') in 0.030124 seconds 
+  Import took 0.032923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_003.dae
+  artifactKey: Guid(a3813d7435b5320489219039a69c4517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_003.dae using Guid(a3813d7435b5320489219039a69c4517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc05349dc3679917916c61ccad07b53a') in 0.033889 seconds 
+  Import took 0.036577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_037.dae
+  artifactKey: Guid(0ed125f72149291409f2bf19843391a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_037.dae using Guid(0ed125f72149291409f2bf19843391a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0c9f1b2d93d9488cbea941149c70c4') in 0.031395 seconds 
+  Import took 0.033991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object.dae
+  artifactKey: Guid(2e0dd217d94260745aa6b09fc127b902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object.dae using Guid(2e0dd217d94260745aa6b09fc127b902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f37cc67b9bb4c7b4df769ce8d20ab9b') in 0.037259 seconds 
+  Import took 0.039899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_004.dae
+  artifactKey: Guid(a4a5fb28768cb0e44b2d9435ff77bdcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_004.dae using Guid(a4a5fb28768cb0e44b2d9435ff77bdcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a369fadfd9c062d1fbf404d5d759bf40') in 0.030631 seconds 
+  Import took 0.033295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_017.dae
+  artifactKey: Guid(19ac9278d0d6c214984795f45abf1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_017.dae using Guid(19ac9278d0d6c214984795f45abf1f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1446c0db01d284b695e148e0e5e3062c') in 0.029865 seconds 
+  Import took 0.032416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_042.dae
+  artifactKey: Guid(7fd12bd8763d8cf4b9bef85874d98e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_042.dae using Guid(7fd12bd8763d8cf4b9bef85874d98e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850b917e4be2949c353498f3cc42f97a') in 0.034731 seconds 
+  Import took 0.037307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_007.dae
+  artifactKey: Guid(a3748382543781f488b831f821c0469d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_007.dae using Guid(a3748382543781f488b831f821c0469d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a0367cc0a06cbd1084fab3ac56b797') in 0.040784 seconds 
+  Import took 0.043439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_035.dae
+  artifactKey: Guid(4ed10632be4a70e4f976dea01cbe55e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_035.dae using Guid(4ed10632be4a70e4f976dea01cbe55e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91d9529d859a787c74564d0e2d60423') in 0.030465 seconds 
+  Import took 0.033051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_030.dae
+  artifactKey: Guid(a2f53d7357ed239499fed5724b992596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_030.dae using Guid(a2f53d7357ed239499fed5724b992596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c71bd1eafcefc7d51505de6e837ebca') in 0.042939 seconds 
+  Import took 0.045594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_031.dae
+  artifactKey: Guid(2baf167e33ddf2c4cac603fac51af6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_031.dae using Guid(2baf167e33ddf2c4cac603fac51af6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8a8083a2e1e6be23be9f1bb9986fe8') in 0.031081 seconds 
+  Import took 0.033731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_021.dae
+  artifactKey: Guid(276edf3e570797e47b0db25510bc246e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_021.dae using Guid(276edf3e570797e47b0db25510bc246e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985fffca55271efb1d0f8c2b5727bf68') in 0.040403 seconds 
+  Import took 0.043033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_018.dae
+  artifactKey: Guid(a7ceff63c29218d47a78f0e4487940d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_018.dae using Guid(a7ceff63c29218d47a78f0e4487940d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e0ef50034c5eede4cd8cd17492a9ff') in 0.030661 seconds 
+  Import took 0.033205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_033.dae
+  artifactKey: Guid(4eb1efceecc02344eae4f672737431cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_033.dae using Guid(4eb1efceecc02344eae4f672737431cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b042b89f4c5af9e322bfa914b8da3915') in 0.036227 seconds 
+  Import took 0.038794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_027.dae
+  artifactKey: Guid(244454232760edc4baf7e31f33e32b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_027.dae using Guid(244454232760edc4baf7e31f33e32b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff44f0851788848593d1e2d6d9462063') in 0.034309 seconds 
+  Import took 0.036839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_012.dae
+  artifactKey: Guid(df8729d041f800f4fb907ed9970d1090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_012.dae using Guid(df8729d041f800f4fb907ed9970d1090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce78ea69e18ddb6e92559aa87d6208ce') in 0.036288 seconds 
+  Import took 0.039038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_020.dae
+  artifactKey: Guid(9bdbb56ea7bb2c74284632b8010b62c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_020.dae using Guid(9bdbb56ea7bb2c74284632b8010b62c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9eea576c29bd8478ec94b14328e870') in 0.029482 seconds 
+  Import took 0.032067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_015.dae
+  artifactKey: Guid(7f4fe3c16b019274bb5062c303aaf493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_015.dae using Guid(7f4fe3c16b019274bb5062c303aaf493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e579c3b71b79a34452fbd303e4e67c77') in 0.027176 seconds 
+  Import took 0.029770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format
+  artifactKey: Guid(c4959f228c4ce3f4cbc4c62d5beb258f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format using Guid(c4959f228c4ce3f4cbc4c62d5beb258f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716e0d339dd7730b10c93f1f074db166') in 0.007639 seconds 
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_023.dae
+  artifactKey: Guid(d235426ae127ffa41a892c8115b5c811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_023.dae using Guid(d235426ae127ffa41a892c8115b5c811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b3618735670fd430ee5ef96eba312d') in 0.037022 seconds 
+  Import took 0.040056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.644962 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_044.dae
+  artifactKey: Guid(f92a296d76a10b549aeba7ff15758027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_044.dae using Guid(f92a296d76a10b549aeba7ff15758027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d6c08cfee51a60a331f24ab242345a') in 0.061465 seconds 
+  Import took 0.065803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_052.dae
+  artifactKey: Guid(d3a6a4658321c5e4b92b47ae189204d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_052.dae using Guid(d3a6a4658321c5e4b92b47ae189204d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d26c6971a24b22d75ccfb2f6b0f2ed2') in 0.053085 seconds 
+  Import took 0.056083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_046.dae
+  artifactKey: Guid(0ad721ef25853fd4c9972322eb170640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_046.dae using Guid(0ad721ef25853fd4c9972322eb170640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a79ddadb2ec1d261c241446c63aa2c') in 0.032795 seconds 
+  Import took 0.035821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_045.dae
+  artifactKey: Guid(3ba0149518aed364dac10bab8b1fb64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_045.dae using Guid(3ba0149518aed364dac10bab8b1fb64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e33c1930121298afc644466cbf742eb') in 0.031226 seconds 
+  Import took 0.034503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_054.dae
+  artifactKey: Guid(6229bc647b4a4c845aabf0a9ddf3bab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_054.dae using Guid(6229bc647b4a4c845aabf0a9ddf3bab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5010bc716c6fcea51c25871aa5a5a1') in 0.038489 seconds 
+  Import took 0.041108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_053.dae
+  artifactKey: Guid(5a01253e081072f4d80eba5c2e4038e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_053.dae using Guid(5a01253e081072f4d80eba5c2e4038e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efe4cb3e694b9203fbc7cde0fa9af19') in 0.037259 seconds 
+  Import took 0.039891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_051.dae
+  artifactKey: Guid(27185f3016b0ed449ad2df1f748436aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_051.dae using Guid(27185f3016b0ed449ad2df1f748436aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9462ef51147fcf07e17101dc8a5cd1') in 0.122193 seconds 
+  Import took 0.155442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_050.dae
+  artifactKey: Guid(5cd67ccf7a1040f4f989b4e185ce89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_050.dae using Guid(5cd67ccf7a1040f4f989b4e185ce89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fdce852658e6b73bc03eb3f699920d') in 0.058577 seconds 
+  Import took 0.063978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_047.dae
+  artifactKey: Guid(9264a12030549dc478b258a96b6e7be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_047.dae using Guid(9264a12030549dc478b258a96b6e7be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a9d6733cc73faa9e6004afe9a3d3d5') in 0.040505 seconds 
+  Import took 0.043886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_049.dae
+  artifactKey: Guid(3e1f8b9346e190c4e846506c6108d0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_049.dae using Guid(3e1f8b9346e190c4e846506c6108d0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed96b9ae91ffda9d21f1b3637c5cf764') in 0.032525 seconds 
+  Import took 0.035222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_048.dae
+  artifactKey: Guid(4bcc34ae11cd7134b8bd460ced1b4423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_048.dae using Guid(4bcc34ae11cd7134b8bd460ced1b4423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f16bbce873d5c6b84ff0fe710aaaae') in 0.040053 seconds 
+  Import took 0.042786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_057.dae
+  artifactKey: Guid(6209db328abf7eb479071011146905f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_057.dae using Guid(6209db328abf7eb479071011146905f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd02681fca9e882090ccd52a598b8e90') in 0.035525 seconds 
+  Import took 0.038281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_062.dae
+  artifactKey: Guid(b5c0d094a6cae0a4e9bba19c416905cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_062.dae using Guid(b5c0d094a6cae0a4e9bba19c416905cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119c771caf0bf850684a84a881dd35d7') in 0.029755 seconds 
+  Import took 0.032457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_059.dae
+  artifactKey: Guid(2810c302f1cd3c343b723f199824c6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_059.dae using Guid(2810c302f1cd3c343b723f199824c6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e44daf88c6aa09586d04f4f0ab6869') in 0.041743 seconds 
+  Import took 0.044246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_055.dae
+  artifactKey: Guid(fa5a41f471ae88d44bf42507f28b9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_055.dae using Guid(fa5a41f471ae88d44bf42507f28b9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04b9a1d782699035b0b02b813e2f15d') in 0.031048 seconds 
+  Import took 0.033655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_056.dae
+  artifactKey: Guid(ba2a2fcf7c82b054f9ff136903f41d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_056.dae using Guid(ba2a2fcf7c82b054f9ff136903f41d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6981b126ddb9297f47e68891b6de0aa7') in 0.030985 seconds 
+  Import took 0.033524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_058.dae
+  artifactKey: Guid(ebf09fd9e81c80341bb011cde7f9e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_058.dae using Guid(ebf09fd9e81c80341bb011cde7f9e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5fc9e77d170b0dc8ea2c1488be800d') in 0.041850 seconds 
+  Import took 0.044548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_065.dae
+  artifactKey: Guid(5bde75f46fe5f8549826941ba78ae850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_065.dae using Guid(5bde75f46fe5f8549826941ba78ae850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8d6ae04930817e7bfd21cef2098426') in 0.032364 seconds 
+  Import took 0.034937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_064.dae
+  artifactKey: Guid(563f0f7c6d55d3e4f9af65ffba19a7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_064.dae using Guid(563f0f7c6d55d3e4f9af65ffba19a7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c207b91297d8dede8e56c0c29ad44f28') in 0.038729 seconds 
+  Import took 0.041265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_061.dae
+  artifactKey: Guid(9507f7fd0b4c6b841b2a142d40d03597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_061.dae using Guid(9507f7fd0b4c6b841b2a142d40d03597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb01717bf65d68bffab36dc4db04f729') in 0.037884 seconds 
+  Import took 0.040595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_060.dae
+  artifactKey: Guid(0135b15b1d054384a9874091f9039192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_060.dae using Guid(0135b15b1d054384a9874091f9039192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe8a1545babacfc9921c81ad7de1aac') in 0.038389 seconds 
+  Import took 0.041002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_063.dae
+  artifactKey: Guid(f0e5806865c5f3e4c98a31cd32b50bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_063.dae using Guid(f0e5806865c5f3e4c98a31cd32b50bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d569d581bf334ac34180b5956ae10fb') in 0.033641 seconds 
+  Import took 0.036386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164688 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_066.dae
+  artifactKey: Guid(5a559315f79279149a6d6c739a6b98b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_066.dae using Guid(5a559315f79279149a6d6c739a6b98b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8618772014cfcc90bfb99902931d7089') in 0.044739 seconds 
+  Import took 0.049914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_076.dae
+  artifactKey: Guid(ed3535126b0cb644f94101050fd20295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_076.dae using Guid(ed3535126b0cb644f94101050fd20295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc12065215ad3ee02952e699cf8b9497') in 0.035535 seconds 
+  Import took 0.038222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_069.dae
+  artifactKey: Guid(7b4acd887b550af43a79e4a3762bc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_069.dae using Guid(7b4acd887b550af43a79e4a3762bc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b20b14a65f6c7f0f72d5212bfd766a3') in 0.039270 seconds 
+  Import took 0.042013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_070.dae
+  artifactKey: Guid(1e39e9f9ce5c5384abd596aa340113ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_070.dae using Guid(1e39e9f9ce5c5384abd596aa340113ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3358b219826822a3a0f7252e00dea4') in 0.034723 seconds 
+  Import took 0.037568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_072.dae
+  artifactKey: Guid(13869c2fe77440a4a8849124a56dc664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_072.dae using Guid(13869c2fe77440a4a8849124a56dc664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88aeb7a0900b89415767f9f9d6975673') in 0.033345 seconds 
+  Import took 0.036016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_068.dae
+  artifactKey: Guid(246151585c6d2d04b90b9b0df7bf0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_068.dae using Guid(246151585c6d2d04b90b9b0df7bf0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8317a465826b8a9b7a7f97cc199ac8f') in 0.034354 seconds 
+  Import took 0.037049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_071.dae
+  artifactKey: Guid(94c28a27f6bf84a4ab87e25a5f443ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_071.dae using Guid(94c28a27f6bf84a4ab87e25a5f443ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd854dbe1c295b491a00ab035025f001') in 0.035111 seconds 
+  Import took 0.037727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_075.dae
+  artifactKey: Guid(765b2b355b013444dbf72b61e95c428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_075.dae using Guid(765b2b355b013444dbf72b61e95c428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1584ee43a56519ce6f7af9482cbcbb') in 0.030161 seconds 
+  Import took 0.032903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_073.dae
+  artifactKey: Guid(ad3e54e738eacc44384796ea629d06d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_073.dae using Guid(ad3e54e738eacc44384796ea629d06d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2316bb39d39911fcc5487204a8e88f15') in 0.029119 seconds 
+  Import took 0.032864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_067.dae
+  artifactKey: Guid(d47967678777bee408799544d9905503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_067.dae using Guid(d47967678777bee408799544d9905503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e47c8a149a5827379016f5383e296f') in 0.035282 seconds 
+  Import took 0.038043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_074.dae
+  artifactKey: Guid(d57361e003ac0024d92949ce0c4b85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_074.dae using Guid(d57361e003ac0024d92949ce0c4b85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56f69233d3cba33e1e1b7b5e9fdeafd') in 0.029827 seconds 
+  Import took 0.033210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001931 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_074.dae
+  artifactKey: Guid(d57361e003ac0024d92949ce0c4b85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_074.dae using Guid(d57361e003ac0024d92949ce0c4b85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56f69233d3cba33e1e1b7b5e9fdeafd') in 0.024320 seconds 
+  Import took 0.027192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144472 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_077.dae
+  artifactKey: Guid(d893de7baf95c884c88e8c0d8c19ca93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_077.dae using Guid(d893de7baf95c884c88e8c0d8c19ca93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12106a2da9039e72d0a4289f7dc31733') in 0.049965 seconds 
+  Import took 0.056370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_079.dae
+  artifactKey: Guid(2ef8e3245ff1d584a940cc16e2b2783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_079.dae using Guid(2ef8e3245ff1d584a940cc16e2b2783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27f45deddbbff5b6ca3139d849cd720') in 0.034565 seconds 
+  Import took 0.037346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_078.dae
+  artifactKey: Guid(92cace565dead62408462900541074db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_078.dae using Guid(92cace565dead62408462900541074db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2233aecc9a7bf33477ceb0589041e1ed') in 0.034956 seconds 
+  Import took 0.037576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004433 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_078.dae
+  artifactKey: Guid(92cace565dead62408462900541074db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/DAE format/object_078.dae using Guid(92cace565dead62408462900541074db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2233aecc9a7bf33477ceb0589041e1ed') in 0.029244 seconds 
+  Import took 0.032075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.464358 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Source
+  artifactKey: Guid(b9d8d10d97d58bf45a0515b738d97593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Source using Guid(b9d8d10d97d58bf45a0515b738d97593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232a45acaf1f3f71579940837436b9eb') in 0.008858 seconds 
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050098 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Source/spaceInterior.skp
+  artifactKey: Guid(077ee5aef1505f14c8d5e935a1f70eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Source/spaceInterior.skp using Guid(077ee5aef1505f14c8d5e935a1f70eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec3b7d0adb2c152728523098d3fc3e8') in 0.686491 seconds 
+  Import took 0.690120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.907897 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format
+  artifactKey: Guid(d01c312144e3db84ba6a8baba8e2204c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format using Guid(d01c312144e3db84ba6a8baba8e2204c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b7bcf96e31cc0ea4d99a43719812e1') in 0.007755 seconds 
+  Import took 0.010596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048021 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object.fbx
+  artifactKey: Guid(ee9a40da994f4554d8321fcf440abf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object.fbx using Guid(ee9a40da994f4554d8321fcf440abf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cc1396ee95504609bc6011622487d5') in 0.083696 seconds 
+  Import took 0.088329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_009.fbx
+  artifactKey: Guid(0d98f42b3fb0c264e9579e23e85e2a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_009.fbx using Guid(0d98f42b3fb0c264e9579e23e85e2a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a91ad2c9fe88339eeea6b868f93515f') in 0.035772 seconds 
+  Import took 0.038611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_010.fbx
+  artifactKey: Guid(8a533560539706648851969435b84093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_010.fbx using Guid(8a533560539706648851969435b84093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27374bcd9b34431ec6a2ad7f649f8772') in 0.035829 seconds 
+  Import took 0.038255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_022.fbx
+  artifactKey: Guid(51f4b40a9b462414d8edc0b0faca315a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_022.fbx using Guid(51f4b40a9b462414d8edc0b0faca315a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a968126a7a2b45c0df733ac0bf1e7588') in 0.029815 seconds 
+  Import took 0.032515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_024.fbx
+  artifactKey: Guid(068958b51dfcfcb49935db527a58c25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_024.fbx using Guid(068958b51dfcfcb49935db527a58c25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09b1eb33241d21893ea53765e0a14c1') in 0.027853 seconds 
+  Import took 0.031297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_006.fbx
+  artifactKey: Guid(2d546c403c5fec04cb40ad0e47361706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_006.fbx using Guid(2d546c403c5fec04cb40ad0e47361706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b0ac0689a38b019e7cfe737a202c16') in 0.028899 seconds 
+  Import took 0.031512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_030.fbx
+  artifactKey: Guid(43d7d5ce42c56164184d7b23b89263a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_030.fbx using Guid(43d7d5ce42c56164184d7b23b89263a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62cce2a967310579d19e46a5b84b6f7') in 0.037346 seconds 
+  Import took 0.039914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_003.fbx
+  artifactKey: Guid(398b09edb79f82a4a90d28c93c92d3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_003.fbx using Guid(398b09edb79f82a4a90d28c93c92d3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01aed886dc70918a44e219e3850fa149') in 0.029711 seconds 
+  Import took 0.032375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_043.fbx
+  artifactKey: Guid(15268600a356cf748b891cbaec3d0ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_043.fbx using Guid(15268600a356cf748b891cbaec3d0ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06f0a806112a750a5e1c029625dbbf5') in 0.023905 seconds 
+  Import took 0.026904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_029.fbx
+  artifactKey: Guid(d102543f083825d4a9d0bcfd51324620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_029.fbx using Guid(d102543f083825d4a9d0bcfd51324620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0c024649fe254a2c52f06db3902761') in 0.031248 seconds 
+  Import took 0.033911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_020.fbx
+  artifactKey: Guid(b48cb5ea8f8a03d4daa4b0fad7f346ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_020.fbx using Guid(b48cb5ea8f8a03d4daa4b0fad7f346ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4971e0e36f1d6222e73a890e1c1a6677') in 0.023662 seconds 
+  Import took 0.026915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_011.fbx
+  artifactKey: Guid(00185d016aa6b7a4eb0c648ef53acc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_011.fbx using Guid(00185d016aa6b7a4eb0c648ef53acc16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297c98a69d70535dc0e30757ba5ebe1f') in 0.033941 seconds 
+  Import took 0.036598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_031.fbx
+  artifactKey: Guid(badba9c9d174afe4d9bf5a9f71072abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_031.fbx using Guid(badba9c9d174afe4d9bf5a9f71072abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed6651cdd25d997337ef58a50f170be') in 0.028752 seconds 
+  Import took 0.031257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_004.fbx
+  artifactKey: Guid(6f7fbf6b8bca03e4e9cdedf7e55e2e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_004.fbx using Guid(6f7fbf6b8bca03e4e9cdedf7e55e2e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28dfa67bd1f897a2c49857d9d45535cb') in 0.026119 seconds 
+  Import took 0.028918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_035.fbx
+  artifactKey: Guid(f208cad28c1aad34db1a3375b6293cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_035.fbx using Guid(f208cad28c1aad34db1a3375b6293cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7fff823ff3ece6ff517f957e94d5838') in 0.024498 seconds 
+  Import took 0.027375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_012.fbx
+  artifactKey: Guid(a75ce52b23bc739499fa9daf90f9aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_012.fbx using Guid(a75ce52b23bc739499fa9daf90f9aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39b6240f65ef0e36b63a4dff0787132') in 0.033136 seconds 
+  Import took 0.035636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_026.fbx
+  artifactKey: Guid(f63d32cc912a43e4c8c11997d87ce013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_026.fbx using Guid(f63d32cc912a43e4c8c11997d87ce013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba2e56e88f93f375cc54a536b3a7212') in 0.028298 seconds 
+  Import took 0.030929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_002.fbx
+  artifactKey: Guid(e3a0c9598d301094bb6a5955e18ba91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_002.fbx using Guid(e3a0c9598d301094bb6a5955e18ba91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d9193f416995cfc2586b31e62506cb') in 0.030481 seconds 
+  Import took 0.033391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_028.fbx
+  artifactKey: Guid(4037b69999c66d8448865f2eacaf237b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_028.fbx using Guid(4037b69999c66d8448865f2eacaf237b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f4ddaa4e737dad7a28f7179a76c715e') in 0.033924 seconds 
+  Import took 0.036503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_033.fbx
+  artifactKey: Guid(3a11f59363d1190488e0d688681e39a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_033.fbx using Guid(3a11f59363d1190488e0d688681e39a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc1fe9f02e664899891c03abe94562b') in 0.032952 seconds 
+  Import took 0.035786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_039.fbx
+  artifactKey: Guid(8fa500fc9b494e34cb48d59d476a81eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_039.fbx using Guid(8fa500fc9b494e34cb48d59d476a81eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9dcf0f53869bb4fb1d97ecbe9177c3') in 0.028760 seconds 
+  Import took 0.031376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_034.fbx
+  artifactKey: Guid(ef5b57b5bf3ebd64d8dfb4f0dfb3cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_034.fbx using Guid(ef5b57b5bf3ebd64d8dfb4f0dfb3cb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d486249d783664cb09f4edb8beb727') in 0.024015 seconds 
+  Import took 0.026877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_007.fbx
+  artifactKey: Guid(5c933aa70acf5ef44937f6c1e474bd85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_007.fbx using Guid(5c933aa70acf5ef44937f6c1e474bd85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0177d0ea247297e08ac441c9d2bccb') in 0.035153 seconds 
+  Import took 0.038287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_023.fbx
+  artifactKey: Guid(48261e92014fa054ca9540241e6ed489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_023.fbx using Guid(48261e92014fa054ca9540241e6ed489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57c81631ad63448f1ae3c78b6670ce2') in 0.029856 seconds 
+  Import took 0.032487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_037.fbx
+  artifactKey: Guid(f4bbaa41de94ada44a8e1314a4a4588b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_037.fbx using Guid(f4bbaa41de94ada44a8e1314a4a4588b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cba384022ad9c68e75dff78d1bb8ac5') in 0.028655 seconds 
+  Import took 0.031192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_016.fbx
+  artifactKey: Guid(e31f7a13b2712a2468835cc84b16488a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_016.fbx using Guid(e31f7a13b2712a2468835cc84b16488a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b67423918a398e062f891cb7f754fc7') in 0.026902 seconds 
+  Import took 0.029452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_042.fbx
+  artifactKey: Guid(e869bb914724377478d8a39fa6933576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_042.fbx using Guid(e869bb914724377478d8a39fa6933576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ac43965cc19d20fabd4aea72b05a9d') in 0.031855 seconds 
+  Import took 0.034961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_008.fbx
+  artifactKey: Guid(8d1683c4fcef12e45b4741f4b4231275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_008.fbx using Guid(8d1683c4fcef12e45b4741f4b4231275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8cf09dc475b7dce8ea0b5481bd186a') in 0.034068 seconds 
+  Import took 0.036545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_041.fbx
+  artifactKey: Guid(66673b97ac177c344b46c57543ea2fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_041.fbx using Guid(66673b97ac177c344b46c57543ea2fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5825cf0bbb188f05793326b5062a87d6') in 0.031852 seconds 
+  Import took 0.034464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_040.fbx
+  artifactKey: Guid(14cb93523b641d7419a32e3642cef49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_040.fbx using Guid(14cb93523b641d7419a32e3642cef49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c614af693f0e08c59c49ae4df1a9f54') in 0.034422 seconds 
+  Import took 0.037067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_005.fbx
+  artifactKey: Guid(7460d6027786dc24983d4154c031cf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_005.fbx using Guid(7460d6027786dc24983d4154c031cf76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b94aec55d95dec8aa312418e45b2a9f') in 0.029252 seconds 
+  Import took 0.031971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_017.fbx
+  artifactKey: Guid(a0b337a6fe976fe47a2b12227875f92d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_017.fbx using Guid(a0b337a6fe976fe47a2b12227875f92d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3c3818554bc2bdf4195d2f428c6e81') in 0.028585 seconds 
+  Import took 0.031258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_019.fbx
+  artifactKey: Guid(4974b90ba0a4c254389144fcd55e80f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_019.fbx using Guid(4974b90ba0a4c254389144fcd55e80f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dafa571a8803c9930d8ec0507c17dff') in 0.022604 seconds 
+  Import took 0.025256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_038.fbx
+  artifactKey: Guid(394d9c625b32a9643a53568fab2ea51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_038.fbx using Guid(394d9c625b32a9643a53568fab2ea51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1971ef3455882d061f45abdf3e83f8aa') in 0.028104 seconds 
+  Import took 0.030869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_025.fbx
+  artifactKey: Guid(9c7bbad2ac73b144b9925586cb3413cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_025.fbx using Guid(9c7bbad2ac73b144b9925586cb3413cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8e67c67e291e9723b0244dcaa71e84') in 0.029898 seconds 
+  Import took 0.032566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_015.fbx
+  artifactKey: Guid(e1ee5ccccb0bffb478a830a3a22378f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_015.fbx using Guid(e1ee5ccccb0bffb478a830a3a22378f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b125cccf6472a2510e4d2b632b864b') in 0.024062 seconds 
+  Import took 0.027036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_032.fbx
+  artifactKey: Guid(9b2da22882dc62647b0caa9ade7ba4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_032.fbx using Guid(9b2da22882dc62647b0caa9ade7ba4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ebabd4d984fca3303ed94ac2b4e552') in 0.031443 seconds 
+  Import took 0.033987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_018.fbx
+  artifactKey: Guid(c585addfc2e48a14dbff2fd1d1daf5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_018.fbx using Guid(c585addfc2e48a14dbff2fd1d1daf5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2def13c110cd5a8056bd765eafeb4e05') in 0.027330 seconds 
+  Import took 0.030006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_014.fbx
+  artifactKey: Guid(7fff7beebcabbb0489ae257ffaa4b1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_014.fbx using Guid(7fff7beebcabbb0489ae257ffaa4b1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3130e05fd94bb55616e62a57830e8fd3') in 0.024310 seconds 
+  Import took 0.027005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_013.fbx
+  artifactKey: Guid(49b26355b8f37a441aa1634ebaf8f2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_013.fbx using Guid(49b26355b8f37a441aa1634ebaf8f2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa22ca2728eb59cbee29b5c5d3de10b7') in 0.024450 seconds 
+  Import took 0.026946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_036.fbx
+  artifactKey: Guid(cc3f1170ad4db044a889a579ef3cf8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_036.fbx using Guid(cc3f1170ad4db044a889a579ef3cf8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bf27f6da01f4f73e3e84465bbb54e1') in 0.028701 seconds 
+  Import took 0.031174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_027.fbx
+  artifactKey: Guid(7f1e74cabb446a54da59884629b1867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_027.fbx using Guid(7f1e74cabb446a54da59884629b1867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35a2c18b6213dbff3cd071a2547e376') in 0.027294 seconds 
+  Import took 0.029794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_001.fbx
+  artifactKey: Guid(f216db35ce28e374b83e9326b4f76ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_001.fbx using Guid(f216db35ce28e374b83e9326b4f76ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8df16616d11167f9b38d7a60b7221c5') in 0.029233 seconds 
+  Import took 0.032691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_021.fbx
+  artifactKey: Guid(33cfcb52d820d4140910b63761b70372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_021.fbx using Guid(33cfcb52d820d4140910b63761b70372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12f02174b2a35a13bd2ef2c8894ab86') in 0.112658 seconds 
+  Import took 0.118990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.969125 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_044.fbx
+  artifactKey: Guid(9d55811bb97bbf844a32ee49507401fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_044.fbx using Guid(9d55811bb97bbf844a32ee49507401fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1971e949ac76eae8eae4f0c4514fe3') in 0.032756 seconds 
+  Import took 0.036429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_054.fbx
+  artifactKey: Guid(e9896ed833de6fe44b929be532e27b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_054.fbx using Guid(e9896ed833de6fe44b929be532e27b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557dd691c90df789fc34404ab85d2c4d') in 0.097258 seconds 
+  Import took 0.103052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_046.fbx
+  artifactKey: Guid(aab0205ad1fc62442b3f4bf4298864c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_046.fbx using Guid(aab0205ad1fc62442b3f4bf4298864c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a214c7f124e70a1e2a4fbfc159daab16') in 0.044505 seconds 
+  Import took 0.049408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_045.fbx
+  artifactKey: Guid(0c452c42040370848a5e0c2ebcbf75a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_045.fbx using Guid(0c452c42040370848a5e0c2ebcbf75a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd298af229ef1aa39c0d3208148974469') in 0.027778 seconds 
+  Import took 0.031138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_048.fbx
+  artifactKey: Guid(59a04889deb347f4a9e905cecff275f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_048.fbx using Guid(59a04889deb347f4a9e905cecff275f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7ee3557dd897c9ae39a6b543ee889b') in 0.033218 seconds 
+  Import took 0.035853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_049.fbx
+  artifactKey: Guid(65bc840b6bc6b9f488c4229f8df8d4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_049.fbx using Guid(65bc840b6bc6b9f488c4229f8df8d4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2a18cb539829ae687cdaaedeecfcfa') in 0.024754 seconds 
+  Import took 0.027264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_053.fbx
+  artifactKey: Guid(4c15c2676140a6042a33610ef68b8f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_053.fbx using Guid(4c15c2676140a6042a33610ef68b8f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783d2093116858c6159f5c6962f36810') in 0.034519 seconds 
+  Import took 0.037630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_047.fbx
+  artifactKey: Guid(9a6995ed744fe8c4d97992ff0b09b5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_047.fbx using Guid(9a6995ed744fe8c4d97992ff0b09b5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41347280aeee2279693ebf3530f58e1') in 0.027002 seconds 
+  Import took 0.029921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_065.fbx
+  artifactKey: Guid(27ebe28d84a95a94bbf6c45104a278a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_065.fbx using Guid(27ebe28d84a95a94bbf6c45104a278a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eba39f9b34bad6fbd88d4883bb414da') in 0.120316 seconds 
+  Import took 0.126926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_063.fbx
+  artifactKey: Guid(47ddf11ccce4bb147a41d696a81dc789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_063.fbx using Guid(47ddf11ccce4bb147a41d696a81dc789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da39bd41781604a1db718384307d302') in 0.039110 seconds 
+  Import took 0.042522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_061.fbx
+  artifactKey: Guid(1f42c03fbd8582a4ebcb750c31f35a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_061.fbx using Guid(1f42c03fbd8582a4ebcb750c31f35a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b849a8abff29f7bf9ae9780352b300') in 0.034207 seconds 
+  Import took 0.036907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_056.fbx
+  artifactKey: Guid(2b747461c18270348b6a28d0ab61dda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_056.fbx using Guid(2b747461c18270348b6a28d0ab61dda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '337f2caa8d36d69634a04a46b8ccfba9') in 0.024955 seconds 
+  Import took 0.028072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_060.fbx
+  artifactKey: Guid(3e283c39a60751b48a29989382217809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_060.fbx using Guid(3e283c39a60751b48a29989382217809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293e82401135db4a861405c88d9c2bea') in 0.031803 seconds 
+  Import took 0.034628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_058.fbx
+  artifactKey: Guid(312909761c31ef9408e40560e10da818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_058.fbx using Guid(312909761c31ef9408e40560e10da818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c298ad922c9d7ea4da4aca287e8ca2b') in 0.031692 seconds 
+  Import took 0.034459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_062.fbx
+  artifactKey: Guid(0b0d177c2af908e4d875fe824958f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_062.fbx using Guid(0b0d177c2af908e4d875fe824958f6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb669cddff26b994165d910f01875985') in 0.023222 seconds 
+  Import took 0.026031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_052.fbx
+  artifactKey: Guid(d8aec7ab332d558469cac1380ca43ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_052.fbx using Guid(d8aec7ab332d558469cac1380ca43ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab07a08549df7daa1de2bb2bb685915') in 0.032553 seconds 
+  Import took 0.035608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_055.fbx
+  artifactKey: Guid(a59203e48b2d091458a213a72dd52a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_055.fbx using Guid(a59203e48b2d091458a213a72dd52a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '453aba02f5208dd0b6ed8468d092a596') in 0.023305 seconds 
+  Import took 0.025854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_064.fbx
+  artifactKey: Guid(31ca665969694ea4a8e5caff2620acc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_064.fbx using Guid(31ca665969694ea4a8e5caff2620acc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af46dfaa406e9df465a3d837870027d4') in 0.033017 seconds 
+  Import took 0.036056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_051.fbx
+  artifactKey: Guid(bf63f630cdfb5fc48971ee594f8c8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_051.fbx using Guid(bf63f630cdfb5fc48971ee594f8c8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe97ab647ed85f48e52a1e0f7d03d62d') in 0.030114 seconds 
+  Import took 0.032873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_057.fbx
+  artifactKey: Guid(502eea203672528479abe514a8d58e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_057.fbx using Guid(502eea203672528479abe514a8d58e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69af6c4d51c4045090de9ad0041297bc') in 0.027837 seconds 
+  Import took 0.030378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_050.fbx
+  artifactKey: Guid(4203d1a996383f4448cd1bcd091db061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_050.fbx using Guid(4203d1a996383f4448cd1bcd091db061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37c89fe65768e31bb9d073ad76a935c') in 0.022416 seconds 
+  Import took 0.025184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_059.fbx
+  artifactKey: Guid(5f64e5dc153afe54aa6c9a74be13122d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_059.fbx using Guid(5f64e5dc153afe54aa6c9a74be13122d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34427faf8feec8a53a325d04ebe791e') in 0.032162 seconds 
+  Import took 0.035008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035449 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_066.fbx
+  artifactKey: Guid(74ca7daafec727e4cb6b6d526cff60c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_066.fbx using Guid(74ca7daafec727e4cb6b6d526cff60c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50ff0614fcb512a882229a136feace8a') in 0.023689 seconds 
+  Import took 0.026513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_074.fbx
+  artifactKey: Guid(a5cb16fc64b93924f8f87e0f070dd116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_074.fbx using Guid(a5cb16fc64b93924f8f87e0f070dd116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5040dd46d81e0be8b21dad6d226ebf23') in 0.025996 seconds 
+  Import took 0.028776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_070.fbx
+  artifactKey: Guid(7dbb79f77c60ffb4e80005b272459473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_070.fbx using Guid(7dbb79f77c60ffb4e80005b272459473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e905562c2f0342983d7a1c216e03a7') in 0.031647 seconds 
+  Import took 0.034770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_076.fbx
+  artifactKey: Guid(e9abeec568757474f93ef41042184a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_076.fbx using Guid(e9abeec568757474f93ef41042184a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4332bc13cb7296bcaa0e7bfd0ad6b458') in 0.024083 seconds 
+  Import took 0.027457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_067.fbx
+  artifactKey: Guid(b27f42552bad6a74f8adeda04c1a76ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_067.fbx using Guid(b27f42552bad6a74f8adeda04c1a76ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f7c75fbce389d79de3190ffe355258') in 0.027247 seconds 
+  Import took 0.030195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_069.fbx
+  artifactKey: Guid(964c4b92144f11f40939a94e89b5723a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_069.fbx using Guid(964c4b92144f11f40939a94e89b5723a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c12d1c1e13c09f234832f52afff157e') in 0.027445 seconds 
+  Import took 0.030402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_075.fbx
+  artifactKey: Guid(f43a839fa92a6e648b6e853bc6220f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_075.fbx using Guid(f43a839fa92a6e648b6e853bc6220f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679a80910b6d8d8fac427f14d1335b00') in 0.024557 seconds 
+  Import took 0.027635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_073.fbx
+  artifactKey: Guid(12ff764ebecb4324ba91eedeb540bea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_073.fbx using Guid(12ff764ebecb4324ba91eedeb540bea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b35722aef2f6b2d4ccbf369ed3f6f09') in 0.023994 seconds 
+  Import took 0.027262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_072.fbx
+  artifactKey: Guid(976f2912df23bcb4dbcaebd567bbede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_072.fbx using Guid(976f2912df23bcb4dbcaebd567bbede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194fc21dec155f72ce2d7f3918dcf27d') in 0.027764 seconds 
+  Import took 0.030523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_068.fbx
+  artifactKey: Guid(3dedb9c45f231aa42918cc35f257ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_068.fbx using Guid(3dedb9c45f231aa42918cc35f257ebfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518100e093a7aaa711894e4bfee1ec02') in 0.027477 seconds 
+  Import took 0.030493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_071.fbx
+  artifactKey: Guid(a6d52d598bd0942419ca7a4059fdda15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_071.fbx using Guid(a6d52d598bd0942419ca7a4059fdda15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ffafbb50ad0edba5abbe2abbcd9d1f') in 0.028108 seconds 
+  Import took 0.030774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002389 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_071.fbx
+  artifactKey: Guid(a6d52d598bd0942419ca7a4059fdda15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_071.fbx using Guid(a6d52d598bd0942419ca7a4059fdda15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ffafbb50ad0edba5abbe2abbcd9d1f') in 0.029708 seconds 
+  Import took 0.032539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002407 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_077.fbx
+  artifactKey: Guid(e7a695ae9b9cbbc4a97e820ffc1152e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_077.fbx using Guid(e7a695ae9b9cbbc4a97e820ffc1152e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57da9e4e98f38777e890a29f1bbd6cd2') in 0.023808 seconds 
+  Import took 0.026778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_079.fbx
+  artifactKey: Guid(0823216c12d33f74e8a33055ce643d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_079.fbx using Guid(0823216c12d33f74e8a33055ce643d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db8bb80643a4a6913e7991775d8e9ad') in 0.027107 seconds 
+  Import took 0.029820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_078.fbx
+  artifactKey: Guid(c234f355b56b9f3428c3f13431c470b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_078.fbx using Guid(c234f355b56b9f3428c3f13431c470b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a9d51e6fba48a40ae9b5df830d2d76') in 0.022841 seconds 
+  Import took 0.025963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005188 seconds.
+  path: Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_078.fbx
+  artifactKey: Guid(c234f355b56b9f3428c3f13431c470b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Interior Elements/Space Interior Elements/Models/FBX format/object_078.fbx using Guid(c234f355b56b9f3428c3f13431c470b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a9d51e6fba48a40ae9b5df830d2d76') in 0.023454 seconds 
+  Import took 0.026614 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
